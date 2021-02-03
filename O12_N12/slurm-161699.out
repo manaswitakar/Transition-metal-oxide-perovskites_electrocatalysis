@@ -1,0 +1,24 @@
+Running SLURM prolog script on red293.cluster.local
+===============================================================================
+Job started on Wed Nov  6 23:17:15 GMT 2019
+Job ID          : 161699
+Job name        : LaMnO3_qscript
+WorkDir         : /mainfs/home/mk2v18/vasp/LaMnO3/cubic/bulk/PBE/en_600/supercell_222/O_sub/O12_N12
+Command         : /mainfs/home/mk2v18/vasp/LaMnO3/cubic/bulk/PBE/en_600/supercell_222/O_sub/O12_N12/LaMnO3_qscript
+Partition       : batch
+Num hosts       : 2
+Num cores       : 80
+Num of tasks    : 80
+Hosts allocated : red[293,413]
+Job Output Follows ...
+===============================================================================
+==============================================================================
+Running epilogue script on red293.
+
+Submit time  : 2019-11-05T15:04:41
+Start time   : 2019-11-06T23:17:15
+End time     : 2019-11-06T23:39:43
+Elapsed time : 00:22:28 (Timelimit=1-00:00:00)
+
+Job Efficiency is: 99.39%
+
